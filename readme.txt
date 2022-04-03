@@ -1,0 +1,1 @@
+This Project is implemented using python to classify and analyze emails into ham(legitimate emails) and spam(illegitimate emails) so as to avoid phishing and unsolicited emails. Kaggle enrol 1 Dataset was used.
